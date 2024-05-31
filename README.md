@@ -1,5 +1,8 @@
 # AI-Powered Bedtime Storyteller
 
+custom AI copilot built by following the step-by-step developer guide
+link- https://bedtime-storyteller.azurewebsites.net/
+
 ## Overview
 
 This project is an AI-powered bedtime storyteller designed to interact with children and create customized bedtime stories based on their preferences. The assistant asks the child for story themes and generates long, engaging stories based on the chosen themes. This project is developed by Ayush Kumar as part of the Microsoft Developer AI Learning Hackathon.
